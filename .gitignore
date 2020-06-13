@@ -1,0 +1,7 @@
+/.idea/
+/.vscode/
+/docs/
+/build/
+/node_modules/
+/vuepress/dist/
+/vuepress/sidebar.js
